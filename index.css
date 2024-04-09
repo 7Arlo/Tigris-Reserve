@@ -1,0 +1,36 @@
+
+#logo,h1,h2,h3,h4,h5,h6 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    
+
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.features >p{
+    font-size: 0.9rem;
+    font-weight: 300; 
+}
+
+.container-small{
+    max-width:714px;
+    padding: 50px;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(39, 93, 93);
+}
+
+#h1,h2,h3,h4,h5,h6{
+    color: #AC9167;
+}
+
+.card-title{
+    color:#AC9167 ;
+}
